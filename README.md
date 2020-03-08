@@ -9,3 +9,5 @@ Features:
 * colors stay the same as the blocks move around
 
 Built for fun and to reacquaint myself with d3.
+
+You can see it in action [here](http://dylan-emery.com/towers/index.html)
