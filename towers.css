@@ -1,0 +1,45 @@
+h1 {
+    color: #ffffff;
+    font-family:  'Raleway';
+    font-weight: normal;
+        font-size: 1.75em;
+    letter-spacing: .2em;
+    line-height: 1.1em;
+    margin:0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#container {
+    width:100%;
+    height: 100%;
+    background: #1abc9c;
+    margin: auto;
+    padding-top: 75px;
+}
+#header {
+    width:100%;
+    height: 50px;
+    padding: 5px;
+    background: #1abc9c;
+}
+#content {
+    background: #1abc9c;
+    height:400px;
+    width:100%;
+    padding:5px;
+    float:left;
+    text-align: center;
+}
+
+.viz {
+  background: white;
+}
+#footer {
+    width:100%;
+        font-size: 1.2em;
+    height: 50px;
+    padding:5px;
+    background: #1abc9c;
+    float:left;
+    text-align: center;
+}
